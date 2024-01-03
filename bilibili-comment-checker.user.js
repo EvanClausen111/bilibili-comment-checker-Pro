@@ -47,6 +47,29 @@ $(function () {
             ]
         },
         {
+            displayName: "互动抽奖",
+            displayIcon: "https://i.miji.bid/2024/01/04/39f11cfd8df7c21e8e2415444fc34bde.jpeg",
+            keywords: ["互动抽奖"],
+        },
+        {
+            displayName: "崩坏：星穹铁道",
+            displayIcon: "https://i2.hdslb.com/bfs/face/57b6e8c16b909a49bfc8d8394d946f908cabe728.jpg@240w_240h_1c_1s.jpg",
+            keywords: ["#崩坏星穹铁道#", "#米哈游#", "#miHoYo#"],
+            followings: [1340190821], //Official
+        },
+        {
+            displayName: "明日方舟",
+            displayIcon: "https://i0.hdslb.com/bfs/face/d4005a0f9b898d8bb049caf9c6355f8e8f772a8f.jpg@240w_240h_1c_1s.jpg",
+            keywords: ["互动抽奖  #明日方舟#"],
+            followings: [1340190821], //Official
+        },
+        {
+            displayName: "我的世界",
+            displayIcon: "https://i0.hdslb.com/bfs/face/c5578966c447a70edf831bbf7e522b7be6090fea.jpg@240w_240h_1c_1s.jpg",
+            keywords: ["mc","我的世界","Minecraft","Mc","mC","minecraft"],
+            followings: [43310262], //Official
+        },
+        {
             displayName: "Asoul",
             displayIcon: "https://i2.hdslb.com/bfs/face/43b21998da8e7e210340333f46d4e2ae7ec046eb.jpg@240w_240h_1c_1s.jpg",
             keywords: ["@A-SOUL_Official", "#A_SOUL#"],
