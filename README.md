@@ -25,8 +25,7 @@ B站评论区自动标注成分油猴脚本，识别各个成分的BU们<br />
 
 
 ## 安装
-* [从 Greasy Fork 安装](https://greasyfork.org/zh-CN/scripts/451164-b站成分检测器)
-* [从 Github Raw 安装](https://raw.githubusercontent.com/trychen/bilibili-comment-checker/main/bilibili-comment-checker.user.js)
+* [从 Github Raw 安装](https://raw.githubusercontent.com/EvanClausen111/bilibili-comment-checker-pro/main/bilibili-comment-checker.user.js)
 
 ## 配置
 基础配置:
