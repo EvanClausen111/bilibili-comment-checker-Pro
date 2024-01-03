@@ -12,7 +12,10 @@ B站评论区自动标注成分油猴脚本，识别各个成分的BU们<br />
 * VTB（关注了嘉然、永雏塔菲、东雪莲）
 * 互动抽奖
 ---
-* 支持关注列表检查
+## 效果
+![使用效果](https://files.catbox.moe/91mv7d.png)
+![使用效果](https://files.catbox.moe/ja751i.png)
+---
 * 支持视频、动态等页面的显示和识别
 * 支持添加自定义的识别
 * 添加查询按钮，避免频繁访问接口被封号
@@ -20,8 +23,6 @@ B站评论区自动标注成分油猴脚本，识别各个成分的BU们<br />
 ## Credit
 本脚本动态信息获取代码来源自[原神玩家指示器作者 laupuz xu](https://greasyfork.org/zh-CN/scripts/450720-原神玩家指示器)
 
-## 效果
-![使用效果](https://files.catbox.moe/91mv7d.png)
 
 ## 安装
 * [从 Greasy Fork 安装](https://greasyfork.org/zh-CN/scripts/451164-b站成分检测器)
