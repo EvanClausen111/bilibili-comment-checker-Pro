@@ -1,6 +1,17 @@
-# bilibili-comment-checker
-B站评论区自动标注成分油猴脚本，主要为原神玩家识别。
-
+# bilibili-comment-checker-Pro
+B站评论区自动标注成分油猴脚本，识别各个成分的BU们<br />
+**本项目是 [bilibili-comment-checker](https://github.com/trychen/bilibili-comment-checker) 的Fork，感谢[Trychen](https://github.com/trychen)大佬的项目**<br/>
+## 目前可以检测：
+* 原神
+* 崩坏：星穹铁道
+* 崩坏3
+* 王者荣耀
+* 明日方舟
+* 我的世界
+* A-SOUL
+* VTB（关注了嘉然、永雏塔菲、东雪莲）
+* 互动抽奖
+---
 * 支持关注列表检查
 * 支持视频、动态等页面的显示和识别
 * 支持添加自定义的识别
